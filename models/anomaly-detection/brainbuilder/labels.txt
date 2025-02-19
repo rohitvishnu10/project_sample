@@ -1,0 +1,5 @@
+glove_pair_latex
+medical_cap
+test_tube
+gauze
+urine_bag
