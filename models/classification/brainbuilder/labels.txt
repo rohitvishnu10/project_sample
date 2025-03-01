@@ -1,5 +1,14 @@
-glove_pair_latex
+Organic_wastes
+Tweezers
+Syringe_needles
+Mask
+Gloves
 medical_cap
-test_tube
+Glass_equipment_packaging_551
 gauze
+Metal_equipment_packaging
 urine_bag
+Plastic_equipment_packaging
+test_tube
+Paper_equipment_packaging
+Syringe
